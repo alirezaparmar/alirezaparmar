@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**alirezaparmar/alirezaparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alirezaparmar/alirezaparmar** is a ✨ _special_ ✨ repository because its `README.md   (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,8 +18,8 @@ href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https:
  
 <img align="right" alt="sheikh python" width = "400" src ="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif"> 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh-python&show_icons=true&locale=en&layout=compact" alt="sheikh-python" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh-python&show_icons=true&locale=en&layout=compact" alt="alirezaparmar" /></p> 
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikh-python&show_icons=true&locale=en" alt="sheikh-python" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikh-python&show_icons=true&locale=en" alt="alirezaparmar" /></p> 
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-python&" alt="sheikh-python" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-parmar&" alt="alirezaparmar" /></p>
