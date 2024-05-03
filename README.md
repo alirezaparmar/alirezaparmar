@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh-python&show_icons=true&locale=en&layout=compact" alt="alirezaparmar" /></p> 
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikh-python&show_icons=true&locale=en" alt="alirezaparmar" /></p> 
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-parmar&" alt="alirezaparmar" /></p>
