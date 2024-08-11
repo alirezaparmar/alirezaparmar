@@ -1,26 +1,68 @@
-<h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<!-- Capsule Render Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezaparmar&label=Profile%20views&color=0e75b6&style=flat" alt="alirezaparmar" /> </p>
 
-- 🔭 I’m currently working on [gym](https://github.com/alirezaparmar/project/blob/main/index.html)
 
-- 🌱 I’m currently learning **(javascript) , React.js**
+# HI there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-- 💬 Ask me about **java,html**
+### Feel free to reach me at: sherlockholme898@gmail.com 
 
-- 📫 How to reach me **alirezaparmar.1378@gmail.com**
+<p align="center">
+ <a href="https://www.instagram.com/alizay_yousfzai/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height=50 withd=50 /></a>
+  <a href="https://www.linkedin.com/in/alizay-yousfzai/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=50 withd=50 /></a>
+  <a href="https://github.com/AlizayAyesha" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=50 withd=50 /></a>
+  <a href="https://www.youtube.com/channel/UCNXwDOfvNu8jXsMpqWtqZjw" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height=50 withd=50 /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/alireza_parmar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alireza_parmar_" height="30" width="40" /></a>
-</p>
+## 📚 Main Tech Stack 
+ <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,python"/><br/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,githubactions,kubernetes,docker&titles=true"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezaparmar&show_icons=true&locale=en&layout=compact" alt="alirezaparmar" /></p>
+![github-contribution-grid-snake](https://github.com/AlizayAyesha/AlizayAyesha/assets/68489612/90b48451-2b17-4735-8d9a-e8af691de7aa)
+<div style="text-align: center;">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> 
+    <b>ALIZAY AYESHA</b>
+    <img src="https://komarev.com/ghpvc/?username=AlizayAyesha&color=brightgreen" alt="Profile views" style="display:inline-block;">
+</div>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alirezaparmar&show_icons=true&locale=en" alt="alirezaparmar" /></p>
+<div>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged&theme=dark" />
+  </picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezaparmar&" alt="alirezaparmar" /></p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliizayAyesha&layout=donut&langs_count=6&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliizayAyesha&layout=donut&langs_count=6"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizayAyesha&layout=donut&langs_count=6&theme=dark" />
+  </picture>
+</div>
+
+
+<div style="text-align: center;">
+
+- Framework: ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+- Tools:  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<a href="https://github.com/alizayayesha">
+    <img alt="Cute count" src="http://moe-count.glitch.me/get/@AlizayAyesha?theme=rule34"/>
+</a>
+
+</div>
+  
+<!-- Bottom Header -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
