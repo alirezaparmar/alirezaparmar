@@ -22,7 +22,7 @@
 <div style="text-align: center;">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> 
     <b>ALIZAY AYESHA</b>
-    <img src="https://komarev.com/ghpvc/?username=AlizayAyesha&color=brightgreen" alt="Profile views" style="display:inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=Alirezaparmar&color=brightgreen" alt="Profile views" style="display:inline-block;">
 </div>
 <br>
 
