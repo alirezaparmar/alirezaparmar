@@ -58,8 +58,8 @@
 - Framework: ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 - Tools:  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<a href="https://github.com/alizayayesha">
-    <img alt="Cute count" src="http://moe-count.glitch.me/get/@AlizayAyesha?theme=rule34"/>
+<a href="https://github.com/alirezaparmar">
+    <img alt="Cute count" src="http://moe-count.glitch.me/get/@Alirezaparmar?theme=rule34"/>
 </a>
 
 </div>
