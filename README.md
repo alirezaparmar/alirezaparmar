@@ -5,7 +5,7 @@
 
 # HI there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### Feel free to reach me at: sherlockholme898@gmail.com 
+### Feel free to reach me at: Alirezaparmar1378@gmail.com 
 
 <p align="center">
  <a href="https://www.instagram.com/alizay_yousfzai/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height=50 withd=50 /></a>
