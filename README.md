@@ -29,14 +29,14 @@
 <div>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=Alirezaparmar&show=reviews%2Cprs_merged&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged"
+      srcset="https://github-readme-stats.vercel.app/api?username=Alirezaparmar&show=reviews%2Cprs_merged"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Alirezaparmar&show=reviews%2Cprs_merged&theme=dark" />
   </picture>
 
   <picture>
@@ -45,7 +45,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliizayAyesha&layout=donut&langs_count=6"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezaparmar&layout=donut&langs_count=6"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizayAyesha&layout=donut&langs_count=6&theme=dark" />
